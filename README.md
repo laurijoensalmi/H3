@@ -3,11 +3,14 @@ viikko 3 tehtävät
 
 c) Näytä omalla salt-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
-Ensimmäisenä tein komennot
+Tein tehtävän http://terokarvinen.com/2016/publish-your-project-with-github ohjeiden mukaisesti.
+
+
 
 $ sudo apt-get install git
 $ cd /srv
-$ sudo git clone https://
+$ sudo git clone https://github.com/laurijoensalmi/H3.git
+
 
 
 
