@@ -39,6 +39,10 @@ $ sudo git reset --hard
 ```  
 ![githubkuva4](https://user-images.githubusercontent.com/49511043/56211232-211a2800-6060-11e9-81f9-7448d9a47825.jpg)![githubkuva5](https://user-images.githubusercontent.com/49511043/56212253-545db680-6062-11e9-9913-d475f2b372b2.jpg)  
 
+e) Tee uusi salt-moduli. Voit asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot.  
+
+
+
 
 
 
