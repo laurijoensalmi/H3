@@ -27,6 +27,10 @@ $ git blame -L 1,20 README.md
 ```  
 
 ![githubkuva3](https://user-images.githubusercontent.com/49511043/56210019-9a644b80-605d-11e9-8f35-ae7a08b8e7eb.jpg)  
+  
+e) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset –hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.  
+
+
 
 
 
