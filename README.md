@@ -20,7 +20,7 @@ $ git diff ee237967ac043434345f91681c37b68bffb2f4da
 ```  
 ![githubkuva2](https://user-images.githubusercontent.com/49511043/56206140-56207d80-6054-11e9-9761-663fa78d5d2e.jpg)  
 
-
+Viimeisenä laitoin komennon Git blame 
 
 
 
