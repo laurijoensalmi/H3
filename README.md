@@ -7,8 +7,9 @@ Tein tehtävän http://terokarvinen.com/2016/publish-your-project-with-github oh
 
 
 
-`$ sudo apt-get install`
- $ blaaa
+`$ sudo apt-get install`  
+$ blaa
+ 
 
 
 
