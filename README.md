@@ -6,9 +6,10 @@ c) Näytä omalla salt-varastollasi esimerkit komennoista ‘git log’, ‘git 
 Tein tehtävän http://terokarvinen.com/2016/publish-your-project-with-github ohjeiden mukaisesti.
 
 
-
-`$ sudo apt-get install`  
-`$ sudo blaa`  
+```
+$ sudo apt-get install    
+$ sudo blaa  
+```
 
 
  
