@@ -11,6 +11,7 @@ Annoin komennon git log /srv/salt/H3-kansiossa ja otin kuvan yhdestä merkinnäs
 $ git log 
 ```  
 ![githubkuva](https://user-images.githubusercontent.com/49511043/56204408-09d33e80-6050-11e9-8d14-93b8e68c51ad.jpg)  
+  
 seuraavaksi annoin komennon git diff samassa kansiossa 
 
 
