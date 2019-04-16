@@ -23,8 +23,6 @@ $ git diff ee237967ac043434345f91681c37b68bffb2f4da
 Viimeisenä laitoin komennon Git blame. Komennolla voidaan selvittää koska riveille on tehty muutoksia. Raportista katsoin rivit 1-20. 
 
 
-
-
  
 
 
