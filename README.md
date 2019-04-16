@@ -7,7 +7,9 @@ Tein tehtävän http://terokarvinen.com/2016/publish-your-project-with-github oh
 
 Annoin komennon git log /srv/salt/H3-kansiossa  
 ```
-$ git log  
+$ git log 
+```  
+
 
 
 
