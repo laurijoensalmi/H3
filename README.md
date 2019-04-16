@@ -22,6 +22,10 @@ $ git diff ee237967ac043434345f91681c37b68bffb2f4da
 
 Viimeisenä laitoin komennon Git blame. Komennolla voidaan selvittää koska riveille on tehty muutoksia. Raportista katsoin rivit 1-20. Toisella rivillä ensimmäinen teksti tarkoittaa Committia ja suluista löytyy muokkaaja, päiväys, kellonaika, aikavyöhyke ja rivinumero.  
 
+```
+$ git blame -L 1,20 README.md
+```  
+
 ![githubkuva3](https://user-images.githubusercontent.com/49511043/56210019-9a644b80-605d-11e9-8f35-ae7a08b8e7eb.jpg)  
 
 
