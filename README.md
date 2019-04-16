@@ -30,14 +30,14 @@ $ git blame -L 1,20 README.md
   
 e) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset –hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.  
 
-Loin uuden kansion ja otin kuvan tästä. Tämän jälkeen tuhosin sen "git reset --hard" komennolla  
+Loin uuden kansion ja otin kuvan tästä. Tämän jälkeen koitin tuhota kansiota "git reset --hard" komennolla, mutta jostain syystä kansio löytyy vielä.
 
 ```
 $ sudoedit uusikansio.md  
 $ ls  
 $ sudo git reset --hard
 ```  
-![githubkuva4](https://user-images.githubusercontent.com/49511043/56211232-211a2800-6060-11e9-81f9-7448d9a47825.jpg)  
+![githubkuva4](https://user-images.githubusercontent.com/49511043/56211232-211a2800-6060-11e9-81f9-7448d9a47825.jpg)
 
 
 
