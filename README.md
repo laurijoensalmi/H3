@@ -7,7 +7,7 @@ Tein tehtävän http://terokarvinen.com/2016/publish-your-project-with-github oh
 
 
 
- '$ sudo apt-get install git'
+` $ sudo apt-get install `   
   $
 
 
