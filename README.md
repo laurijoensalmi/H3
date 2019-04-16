@@ -36,7 +36,11 @@ Loin uuden kansion ja otin kuvan tästä. Tämän jälkeen tuhosin sen "git rese
 $ sudoedit uusikansio.md  
 $ ls  
 $ sudo git reset --hard
-```
+```  
+![githubkuva4](https://user-images.githubusercontent.com/49511043/56211232-211a2800-6060-11e9-81f9-7448d9a47825.jpg)  
+
+
+
 
 
 
