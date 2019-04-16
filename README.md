@@ -12,7 +12,13 @@ $ git log
 ```  
 ![githubkuva](https://user-images.githubusercontent.com/49511043/56204408-09d33e80-6050-11e9-8d14-93b8e68c51ad.jpg)  
   
-seuraavaksi annoin komennon git diff samassa kansiossa 
+Seuraavaksi annoin komennon git diff samassa kansiossa. Git diff otsikko kertoo, että eroja tarkastellaan näiden välillä. Index kertoo, että kyseessä on tavallinen tiedosto.
+
+```
+$ git diff
+$ git diff ee237967ac043434345f91681c37b68bffb2f4da
+```
+
 
 
 
