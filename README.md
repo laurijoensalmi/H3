@@ -7,9 +7,9 @@ Tein tehtävän http://terokarvinen.com/2016/publish-your-project-with-github oh
 
 
 
-$ sudo apt-get install git
-$ cd /srv
-$ sudo git clone https://github.com/laurijoensalmi/H3.git
+#$ sudo apt-get install git
+#$ cd /srv
+#$ sudo git clone https://github.com/laurijoensalmi/H3.git
 
 
 
