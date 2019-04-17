@@ -58,6 +58,8 @@ sudoedit user.rules
 ```
 sudoedit user6.rules
 ```
+![github4](https://user-images.githubusercontent.com/49511043/56312594-25763c00-6159-11e9-9085-d5e34c243fc8.jpg)  
+
 
 
 
