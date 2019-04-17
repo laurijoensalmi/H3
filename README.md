@@ -53,6 +53,8 @@ sudoedit init.sls
 ```
 sudoedit user.rules
 ```
+![github3](https://user-images.githubusercontent.com/49511043/56312407-be588780-6158-11e9-86a1-1572170da64e.jpg)  
+
 
 
 
