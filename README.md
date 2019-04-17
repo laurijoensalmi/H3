@@ -69,6 +69,10 @@ sudo salt '*' state.apply tulimuuri
 
 Tarkistin tulimuurin tilan  
 
+![github6](https://user-images.githubusercontent.com/49511043/56313072-59059600-615a-11e9-8e54-9aab4c902776.jpg)  
+
+
+
 
 
 
