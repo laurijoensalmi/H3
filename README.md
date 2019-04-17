@@ -67,11 +67,11 @@ sudo salt '*' state.apply tulimuuri
 ```
 ![github5](https://user-images.githubusercontent.com/49511043/56312825-b9e09e80-6159-11e9-8e90-b5953802ad04.jpg)  
 
-Tarkistin tulimuurin tilan  
+Tarkistin tulimuurin tilan.  
 
 ![github6](https://user-images.githubusercontent.com/49511043/56313072-59059600-615a-11e9-8e54-9aab4c902776.jpg)  
 
-
+Portit 22 ja 80 on hyväksytty tulimuurista läpi.
 
 
 
