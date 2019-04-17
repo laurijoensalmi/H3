@@ -48,6 +48,7 @@ Loin kansion "tulimuuri" "/srv/salt" polkuun. Kansion sisälle tein: init.sls, u
 ```
 sudoedit init.sls
 ```
+![github2](https://user-images.githubusercontent.com/49511043/56312142-3a060480-6158-11e9-8b1b-7c0be54505fa.jpg)
 
 
 
