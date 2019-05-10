@@ -1,4 +1,4 @@
-# H3
+https://github.com/laurijoensalmi/H3/blob/master/H3%20teht%C3%A4v%C3%A4t# H3
 viikko 3 tehtävät
 
 c) Näytä omalla salt-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
